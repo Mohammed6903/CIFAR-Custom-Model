@@ -1,4 +1,3 @@
-```markdown
 # PyTorch CIFAR-10 Classifier: From Training to API Deployment
 
 This project documents the complete lifecycle of a deep learning model, from building a custom Convolutional Neural Network (CNN) in PyTorch to deploying it as a live, interactive web API. The goal was to gain a hands-on, foundational understanding of the entire end-to-end machine learning pipeline.
