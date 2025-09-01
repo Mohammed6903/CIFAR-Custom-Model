@@ -1,0 +1,6 @@
+fastapi==0.116.1
+pillow==11.0.0
+torch==2.7.1+cu128
+torchaudio==2.7.1+cu128
+torchvision==0.22.1+cu128
+"uvicorn[standard]"
